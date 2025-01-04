@@ -24,8 +24,7 @@ CNN merupakan salah satu teknik dari Artificial Neural Network (ANN) yang diranc
 ---
 
 ## **Dataset**
-Dataset yang digunakan dalam project ini adalah **Indonesia Herb Leaf Dataset 3500**, yang diunduh dari [Mendeley Data](https://data.mendeley.com/datasets/s82j8dh4rr/1).  
-Dari total 10 kelas yang tersedia dalam dataset, proyek ini hanya menggunakan 9 jenis daun. Alasan pemilihan ini adalah untuk memastikan distribusi data lebih seimbang, sehingga model dapat dilatih dengan lebih efektif dan menghasilkan performa yang lebih baik dalam mengklasifikasikan jenis daun.
+Dataset yang digunakan dalam project ini adalah **Indonesia Herb Leaf Dataset 3500**, yang diunduh dari [Mendeley Data](https://data.mendeley.com/datasets/s82j8dh4rr/1). Dari total 10 kelas yang tersedia dalam dataset, project ini hanya menggunakan 9 jenis daun. Alasan pemilihan ini adalah untuk memastikan distribusi data lebih seimbang, sehingga model dapat dilatih dengan lebih efektif dan menghasilkan performa yang lebih baik dalam mengklasifikasikan jenis daun.
 
 ---
 
